@@ -1,0 +1,2 @@
+# thehighschoolofhell
+GitHub Pages
