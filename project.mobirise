@@ -268,7 +268,7 @@
           "form": {
             "action": "gstarlightgaming@gmail.com",
             "alerts": {
-              "success": "You Have Been Added To The Waiting List"
+              "success": "You Have Been Added To The Waiting List\nMake Sure You Check your Emails Often"
             },
             "fields": {
               "email": {
